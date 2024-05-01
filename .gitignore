@@ -1,0 +1,4 @@
+dhadhan-pipeline/
+serving_model_dir/
+.venv/
+__pycache__/
