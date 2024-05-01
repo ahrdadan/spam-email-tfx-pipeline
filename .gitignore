@@ -2,3 +2,5 @@ dhadhan-pipeline/
 serving_model_dir/
 .venv/
 __pycache__/
+.backup/
+dhadhan-pipeline.zip
